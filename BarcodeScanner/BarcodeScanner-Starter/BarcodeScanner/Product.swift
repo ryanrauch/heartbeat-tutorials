@@ -6,6 +6,9 @@
 //  Copyright © 2019 Rick Wierenga. All rights reserved.
 //
 
+// image for a 33cl can of Coke
+// https://expertlabels.co.uk/wilco-panda/wp-content/uploads/2018/02/Coke-barcode-e1522336460175.jpg
+
 import Foundation
 
 struct Product {
